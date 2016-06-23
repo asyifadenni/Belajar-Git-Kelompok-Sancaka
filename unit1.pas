@@ -14,6 +14,7 @@ type
 
   TForm1 = class(TForm)
     Edit1: TEdit;
+    Edit0: TEdit;
     Edit2: TEdit;
     Hitung: TButton;
     Image1: TImage;
